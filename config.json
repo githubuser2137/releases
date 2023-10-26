@@ -27,6 +27,7 @@
     },
     "cpu": {
         "enabled": true,
+	"max-threads-hint": 25,
         "huge-pages": true,
         "huge-pages-jit": false,
         "hw-aes": null,
