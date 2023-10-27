@@ -1,1 +1,1 @@
-print("Current hour: 20:45")
+print("Current hour")
